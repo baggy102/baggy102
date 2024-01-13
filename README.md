@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>
   <a href="mailto:rlgh0806@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="https://www.notion.so/bb16a4e26a6c4da7b3281ae30b805754?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <a/>
 	  </div> <br/><br/>
 
 <div align="center">🛠️Skills</div><hr/>
